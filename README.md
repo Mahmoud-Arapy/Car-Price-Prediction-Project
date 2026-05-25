@@ -94,7 +94,7 @@ The models are evaluated using:
 ```bash
 car-price-prediction/
 │
-├── NTI_PROJECT.ipynb
+├── Car Price Prediction Project.ipynb
 ├── car_price_model.pkl
 ├── requirements.txt
 └── README.md
